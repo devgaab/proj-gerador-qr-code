@@ -1,0 +1,18 @@
+@media (max-widht: 430px) {
+    .wrapper {
+        height: 255px;
+        padding: 16px 20px;
+    }
+    .wrapper.active {
+        height: 510px;
+    }
+    .header p {
+        color: #696969;
+    }
+    .form :where(input, button) {
+        height: 52px;
+    }
+    .qr-code img {
+        width: 160px;
+    }
+}
