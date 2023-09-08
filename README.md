@@ -2,8 +2,10 @@
 
 <img src=".github/preview-desktop.png" alt="Demonstração do projeto para desktop." width="100%"/>
 
+<img src=".github/preview-desktop-2.png" alt="Demonstração do projeto para desktop." width="100%"/>
+
 ### 💻 Projeto 
-Um simples projeto  de Gerador de QR Code Web Responsivo. 
+Um simples projeto de Gerador de QR Code Web Responsivo. 
 
 ### ⚙ Funcionalidades
 - Gera QR Code personalizado
